@@ -2,12 +2,11 @@
 
 I'm Jerome, nice to meet you 👋
 
-- Software Engineer at ServiceRocket 🚀
 - Likes music ♫, football ⚽ and code 💻
 - Fav tech
   - Node.js
   - Typescript
-  - Kotlin
+  - AWS
   - Docker
   - Serverless
 
